@@ -1,0 +1,1 @@
+spec=mp.solutions.drawing_utils.DrawingSpec(circle_radius=1),
